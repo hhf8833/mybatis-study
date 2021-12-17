@@ -1,0 +1,3 @@
+com\hhf\dao\UserDao.class
+com\hhf\utils\MybatisUtils.class
+com\hhf\bean\User.class

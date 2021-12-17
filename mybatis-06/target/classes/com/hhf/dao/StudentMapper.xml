@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hhf.dao.StudentMapper">
+
+    <select id="getStudent" resultMap="StudentTeacher">
+        /*select s.id,s.name,t.name from student s,teacher t where s.tid = t.id;*/
+        select * from student
+    </select>
+    <resultMap id="StudentTeacher" type="Student">
+        <result column="id" property="id"/>
+        <result column="name" property="name"/>
+        <!--复杂的属性，要单独处理 association对象  collection集合-->
+        <!--teacher在student里面对应的是tid，tid的类型为teacher类型，根据查出来的学生tid去找老师-->
+        <association property="teacher" column="tid" javaType="Teacher" select="getTeacher"/>
+    </resultMap>
+    <select id="getTeacher" resultType="Teacher">
+        select *from teacher where id= #{tid}
+    </select>
+
+    <!--！==============================================================-->
+    <!--方式二-->
+    <select id="getStudent2" resultMap="StudentTeacher2">
+        select s.id sid, s.name sname, t.id teaid, t.name tname
+        from student s,teacher t
+        where s.tid = t.id;
+    </select>
+    <resultMap id="StudentTeacher2" type="Student">
+        <result column="sid" property="id"/>
+        <result column="sname" property="name"/>
+        <association property="teacher" javaType="Teacher">
+            <!--注意这里如果不加id这一项的话，输出的teacherid都为0，因为没有对应-->
+            <result property="id" column="teaid"/>
+            <result property="name" column="tname"/>
+        </association>
+    </resultMap>
+</mapper>

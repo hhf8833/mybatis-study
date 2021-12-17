@@ -1,0 +1,176 @@
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1518864111.
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==>  Preparing: select * from teacher where id = ? 
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==> Parameters: 1(Integer)
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]<==      Total: 1
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@5a8806ef]
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1518864111 to pool.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1518864111.
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==>  Preparing: select * from teacher where id = ? 
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==> Parameters: 1(Integer)
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]<==      Total: 1
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@5a8806ef]
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1518864111 to pool.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1610702581.
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==>  Preparing: select * from teacher where id = ? 
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==> Parameters: 1(Integer)
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]<==      Total: 1
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@60015ef5]
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1610702581 to pool.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 2097514481.
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==>  Preparing: select * from teacher where id = ? 
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==> Parameters: 1(Integer)
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]<==      Total: 1
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d0587f1]
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 2097514481 to pool.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 510464020.
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==>  Preparing: select * from teacher where id = ? 
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==> Parameters: 1(Integer)
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]<==      Total: 1
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1e6d1014]
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 510464020 to pool.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 510464020.
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==>  Preparing: select * from teacher where id = ? 
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==> Parameters: 1(Integer)
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]<==      Total: 1
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1e6d1014]
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 510464020 to pool.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-12-14][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-12-14][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-12-14][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-12-14][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Reader entry: Student.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Reader entry: Teacher.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo/Student.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo/Student.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 _	  F	  G	  H I
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo/Teacher.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo/Teacher.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 M	  9	  : ;
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.hhf.pojo.Student matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.hhf.pojo.Teacher matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1630521067.
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==>  Preparing: select * from teacher where id = ? 
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==> Parameters: 1(Integer)
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]<==      Total: 1
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@612fc6eb]
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1630521067 to pool.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-12-14][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][21-12-14][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][21-12-14][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][21-12-14][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][21-12-14][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Reader entry: Student.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Reader entry: Teacher.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo/Student.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo/Student.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 _	  F	  G	  H I
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo/Teacher.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/Javaproject/mybatis/mybatis-study/mybatis-06/target/classes/com/hhf/pojo/Teacher.class
+[DEBUG][21-12-14][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   4 M	  9	  : ;
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.hhf.pojo.Student matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.io.ResolverUtil]Checking to see if class com.hhf.pojo.Teacher matches criteria [is assignable to Object]
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1630521067.
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==>  Preparing: select * from teacher where id = ? 
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]==> Parameters: 1(Integer)
+[DEBUG][21-12-14][com.hhf.dao.TeacherMapper.getTeacher]<==      Total: 1
+[DEBUG][21-12-14][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@612fc6eb]
+[DEBUG][21-12-14][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1630521067 to pool.
